@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/OrtnecHoldings-test-task/static/css/main.619e5837.chunk.css",
+    "main.js": "/OrtnecHoldings-test-task/static/js/main.c7bbbe05.chunk.js",
+    "main.js.map": "/OrtnecHoldings-test-task/static/js/main.c7bbbe05.chunk.js.map",
+    "runtime-main.js": "/OrtnecHoldings-test-task/static/js/runtime-main.923f1ee4.js",
+    "runtime-main.js.map": "/OrtnecHoldings-test-task/static/js/runtime-main.923f1ee4.js.map",
+    "static/css/2.40c68a69.chunk.css": "/OrtnecHoldings-test-task/static/css/2.40c68a69.chunk.css",
+    "static/js/2.19c946bf.chunk.js": "/OrtnecHoldings-test-task/static/js/2.19c946bf.chunk.js",
+    "static/js/2.19c946bf.chunk.js.map": "/OrtnecHoldings-test-task/static/js/2.19c946bf.chunk.js.map",
+    "index.html": "/OrtnecHoldings-test-task/index.html",
+    "precache-manifest.56e13e613d135c9fcc4b0bcb87ddff79.js": "/OrtnecHoldings-test-task/precache-manifest.56e13e613d135c9fcc4b0bcb87ddff79.js",
+    "service-worker.js": "/OrtnecHoldings-test-task/service-worker.js",
+    "static/css/2.40c68a69.chunk.css.map": "/OrtnecHoldings-test-task/static/css/2.40c68a69.chunk.css.map",
+    "static/css/main.619e5837.chunk.css.map": "/OrtnecHoldings-test-task/static/css/main.619e5837.chunk.css.map",
+    "static/js/2.19c946bf.chunk.js.LICENSE.txt": "/OrtnecHoldings-test-task/static/js/2.19c946bf.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/OrtnecHoldings-test-task/static/media/1.9166a6ec.jpg",
+    "static/media/1.svg": "/OrtnecHoldings-test-task/static/media/1.f27cb0aa.svg",
+    "static/media/2.svg": "/OrtnecHoldings-test-task/static/media/2.2061c8b2.svg",
+    "static/media/2.jpg": "/OrtnecHoldings-test-task/static/media/2.76b1f8eb.jpg",
+    "static/media/3.jpg": "/OrtnecHoldings-test-task/static/media/3.40462dbe.jpg",
+    "static/media/3.svg": "/OrtnecHoldings-test-task/static/media/3.ba782519.svg",
+    "static/media/4.jpg": "/OrtnecHoldings-test-task/static/media/4.2ca2175f.jpg",
+    "static/media/close.svg": "/OrtnecHoldings-test-task/static/media/close.81a997d4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.923f1ee4.js",
+    "static/css/2.40c68a69.chunk.css",
+    "static/js/2.19c946bf.chunk.js",
+    "static/css/main.619e5837.chunk.css",
+    "static/js/main.c7bbbe05.chunk.js"
+  ]
+}
