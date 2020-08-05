@@ -1,5 +1,6 @@
 ## Тестовое задание для Ortnec Holdings. 
 Выполнено на основе React. Залито на gh-pages по ссылке https://gazzati.github.io/OrtnecHoldings-test-task/.
+Макет: https://www.figma.com/file/877yEuOdmSqgolR7TFKNDv/Guzman-2?node-id=0%3A1
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
